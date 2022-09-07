@@ -1,7 +1,5 @@
 # Search for movies:
 
-### [Live Demo](https://m2001said.github.io/Movies/)
-
 ## you can search on any movie and find information about it.
 
 ## you can use this link for API : [link](http://www.omdbapi.com)
