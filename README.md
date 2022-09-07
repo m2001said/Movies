@@ -1,6 +1,6 @@
 # Search for movies:
 
-### [:ive Demo](https://m2001said.github.io/Movies/)
+### [Live Demo](https://m2001said.github.io/Movies/)
 
 ## you can search on any movie and find information about it.
 
